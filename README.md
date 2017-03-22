@@ -1,2 +1,4 @@
-# My-CS50
-My version of solutions CS50
+## CS50
+
+
+My version of solutions HarvardX: CS50 Introduction to Computer Science 
